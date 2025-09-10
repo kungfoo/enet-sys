@@ -1,6 +1,7 @@
 [package]
 name = "enet-sys"
-version = "1.0.4"
+edition = "2021"
+version = "1.0.5"
 authors = ["Roland Ruckerbauer <roland.rucky@gmail.com>"]
 description = "Low level bindings to the enet C library"
 license = "MIT"
